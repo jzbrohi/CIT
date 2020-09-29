@@ -1,3 +1,4 @@
+[Task-1]
 # History of World Wide Web
 
 * Sir Tim Berners-Lee is a British PC researcher. He was conceived in London, and his folks were early PC researchers, chipping away at perhaps the most punctual PC. By October of 1990, Tim had composed the three key advancements that remain the establishment of the present web (and which you may have seen show up on parts of your internet browser)
@@ -12,6 +13,7 @@
 
 * In 2009, Sir Tim set up the World Wide Web Foundation. The Web Foundation is propelling the Open Web as a way to manufacture an equitable and flourishing society by associating everybody, raising voices and upgrading cooperation. 
 
+[Task-2]
 # Generations of Web
 Here we learnt that web has three generations web 1.0, web 2.0 and web 3.0.
 
@@ -22,6 +24,7 @@ Here we learnt that web has three generations web 1.0, web 2.0 and web 3.0.
 ## Web 3.0
 * Web 3.0, also known as Semantic web, is an open source web. Users can custumize the content aaccording to their wish.
 
+[Task-3]
 # Types of Websites
 We usually use two types of websites on internet. Which are as follows;
 
