@@ -14,3 +14,10 @@ Tim additionally composed the principal page supervisor/program ("WorldWideWeb.a
 
 In 2009, Sir Tim set up the World Wide Web Foundation. The Web Foundation is propelling the Open Web as a way to manufacture an equitable and flourishing society by associating everybody, raising voices and upgrading cooperation. 
 
+.....
+
+# Further we studied about the generations of web
+* We learnt that web has three generations web 1.0, web 2.0 and web 3.0
+* Web 1.0 had read only webpaages. And webmaster was solely responsible for the updates.
+* Web 2.0 was a read and write web. The user is able to write on the pages. Furthermore, it was technology centric.
+* Web 3.0, also known as Semantic web, is an open source web. Users can custumize the content aaccording to their wish.
