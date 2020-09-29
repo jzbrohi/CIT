@@ -21,3 +21,17 @@ Here we learnt that web has three generations web 1.0, web 2.0 and web 3.0.
 * Web 2.0 was a read and write web. The user is able to write on the pages. Furthermore, it was technology centric.
 ## Web 3.0
 * Web 3.0, also known as Semantic web, is an open source web. Users can custumize the content aaccording to their wish.
+
+# Types of Websites
+We usually use two types of websites on internet. Which are as follows;
+
+## 1, Static Websites
+Static websites are of the type that remain constant for long periods. You can access them from anywhere around the world and the result will be same everywhere. These type of websites are not seemed to be attractive and user friendly.
+
+## 2, Dynamic Websites
+Dynamic websites are of the type that vary from user to user and time to time. These websites can be accessed all around the globe and results can be different depanding on the users, their location and type of browser.
+
+## Static Vs Dynamic Websites
+* Static Websites are same for all users.                  * Dynamic Websites vary from user to user.
+* Static Websites have limited webpaages.                  * Dynamic Websites may have multiple pages.
+* Static Websites do not aallow user to interaact.         * Dynamic Websites allow users to interact.
