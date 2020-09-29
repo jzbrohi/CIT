@@ -44,3 +44,13 @@ Dynamic websites are of the type that vary from user to user and time to time. T
 
 * Static Websites do not aallow user to interaact.        
 * Dynamic Websites allow users to interact.
+
+[Task-4]
+# Website Architectures
+Here we will see how the aarchitectures of Static aand Dynamic Websites works.
+
+## Architecture of Static Wesites
+Architecture of Static Websites is very simple. It has two steps. When we open a static website, our brwoser sends a http request to server and in response server sends aa http response and thats it. It gives all pages in one response.
+
+## Architecture of Dynamic Websites
+Architecture of Dynamic Websites is very complex one. It contains 4 steps. When we open a dynamic website, our browser sends a http request to server. Server calls a application program and runs it. Then finally it gives a http response of what we had requested. It gives response one by one e page.
