@@ -14,7 +14,6 @@ Tim additionally composed the principal page supervisor/program ("WorldWideWeb.a
 
 In 2009, Sir Tim set up the World Wide Web Foundation. The Web Foundation is propelling the Open Web as a way to manufacture an equitable and flourishing society by associating everybody, raising voices and upgrading cooperation. 
 
-.....
 
 # Further we studied about the generations of web
 * We learnt that web has three generations web 1.0, web 2.0 and web 3.0
