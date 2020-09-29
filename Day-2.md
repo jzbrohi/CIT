@@ -32,6 +32,11 @@ Static websites are of the type that remain constant for long periods. You can a
 Dynamic websites are of the type that vary from user to user and time to time. These websites can be accessed all around the globe and results can be different depanding on the users, their location and type of browser.
 
 ## Static Vs Dynamic Websites
-* Static Websites are same for all users.                  * Dynamic Websites vary from user to user.
-* Static Websites have limited webpaages.                  * Dynamic Websites may have multiple pages.
-* Static Websites do not aallow user to interaact.         * Dynamic Websites allow users to interact.
+* Static Websites are same for all users.                  
+* Dynamic Websites vary from user to user.
+
+* Static Websites have limited webpaages.                 
+* Dynamic Websites may have multiple pages.
+
+* Static Websites do not aallow user to interaact.        
+* Dynamic Websites allow users to interact.
