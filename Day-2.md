@@ -2,11 +2,11 @@
 
 * Sir Tim Berners-Lee is a British PC researcher. He was conceived in London, and his folks were early PC researchers, chipping away at perhaps the most punctual PC. By October of 1990, Tim had composed the three key advancements that remain the establishment of the present web (and which you may have seen show up on parts of your internet browser)
 
-### HTML: HyperText Markup Language. The markup (designing) language for the web. 
+##### HTML: HyperText Markup Language. The markup (designing) language for the web. 
 
-### URI: Uniform Resource Identifier. A sort of "address" that is remarkable and used to distinguish to every asset on the web. It is likewise generally called a URL. 
+##### URI: Uniform Resource Identifier. A sort of "address" that is remarkable and used to distinguish to every asset on the web. It is likewise generally called a URL. 
 
-### HTTP: Hypertext Transfer Protocol. Considers the recovery of connected assets from over the web. 
+##### HTTP: Hypertext Transfer Protocol. Considers the recovery of connected assets from over the web. 
 
 * Tim additionally composed the principal page supervisor/program ("WorldWideWeb.app") and the main web worker ("httpd"). Before the finish of 1990, the primary site page was served on the open web, and in 1991, individuals outside of CERN were welcome to join this new web network. 
 
