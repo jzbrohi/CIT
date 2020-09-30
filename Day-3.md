@@ -25,3 +25,6 @@ Phishing is aa fraudulent activity done on internet. It is like creating spam we
 ## 3, Platform Should  be Wordpress
 ## 4, Any Basic Blogging Template
 ## 5, Quality Book Articles should be used
+## 6, Separate Page for Every Genre of Articles
+## 7, Publish on Wordpress
+## 8, Analyze the Design and Articles & Improve
