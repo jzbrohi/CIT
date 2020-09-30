@@ -24,7 +24,7 @@ Phishing is aa fraudulent activity done on internet. It is like creating spam we
 ## 2, AMP Designing Tools Should be Used
 ## 3, Platform Should  be Wordpress
 ## 4, Any Basic Blogging Template
-## 5, Quality Book Articles should be used
+## 5, Quality Book Articles Should be Used
 ## 6, Separate Page for Every Genre of Articles
 ## 7, Publish on Wordpress
 ## 8, Analyze the Design and Articles & Improve
