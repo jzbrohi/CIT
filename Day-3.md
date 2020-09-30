@@ -16,7 +16,7 @@ Worms are also harmful for computer like virus. But, they do not spread as fast 
 ## 5, Phishing
 Phishing is aa fraudulent activity done on internet. It is like creating spam websites and stealing the data of users.
 
-# Lets Design aa Website named "Literary Ruminatives"
+# Lets Design a Website named "Literary Ruminatives"
 ## 1, Purpose of Website
 - To Provide Healthy Literature to Readers
 - To Provide Quaality Book Reviews
